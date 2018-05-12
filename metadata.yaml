@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9436
     wikipedia: http://en.wikipedia.org/wiki/Anna_Garlin_Spencer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20645#The-Family-and-its-Members
 gutenberg_issued: '2007-02-21'
 gutenberg_type: Text
 identifiers:
