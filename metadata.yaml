@@ -1,0 +1,27 @@
+_repo: The-Family-and-its-Members_20645
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spencer, Anna Garlin
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '9436'
+    url: http://www.gutenberg.org/2009/agents/9436
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Garlin_Spencer
+description: ''
+gutenberg_issued: '2007-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families'
+- !lcc 'HQ'
+title: The Family and its Members
+url: http://www.gutenberg.org/ebooks/20645
